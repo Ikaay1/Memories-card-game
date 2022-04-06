@@ -28,3 +28,12 @@
   transform: rotateY(90deg);
   transition-delay: 0s;
 }
+
+@media only screen and (max-width: 730px) {
+  .card img {
+    width: 90%;
+  }
+  .card {
+    
+  }
+}
